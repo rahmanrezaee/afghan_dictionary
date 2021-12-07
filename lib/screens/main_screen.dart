@@ -1,9 +1,9 @@
-import 'package:admin/constants.dart';
-import 'package:admin/controllers/main_controller.dart';
-import 'package:admin/widgets/home/components/search_field.dart';
-import 'package:admin/widgets/home/components/list_word.dart';
-import 'package:admin/widgets/home/components/menu.dart';
-import 'package:admin/widgets/top_area.dart';
+import 'package:fghan_dicitionary/constants.dart';
+import 'package:fghan_dicitionary/controllers/main_controller.dart';
+import 'package:fghan_dicitionary/widgets/home/components/search_field.dart';
+import 'package:fghan_dicitionary/widgets/home/components/list_word.dart';
+import 'package:fghan_dicitionary/widgets/home/components/menu.dart';
+import 'package:fghan_dicitionary/widgets/top_area.dart';
 import 'package:circular_menu/circular_menu.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

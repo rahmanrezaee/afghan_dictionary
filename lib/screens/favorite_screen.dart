@@ -1,8 +1,8 @@
-import 'package:admin/constants.dart';
-import 'package:admin/controllers/favorite_controller.dart';
-import 'package:admin/widgets/favorite/components/favorite_list.dart';
-import 'package:admin/widgets/globle/components/header.dart';
-import 'package:admin/widgets/top_area.dart';
+import 'package:fghan_dicitionary/constants.dart';
+import 'package:fghan_dicitionary/controllers/favorite_controller.dart';
+import 'package:fghan_dicitionary/widgets/favorite/components/favorite_list.dart';
+import 'package:fghan_dicitionary/widgets/globle/components/header.dart';
+import 'package:fghan_dicitionary/widgets/top_area.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

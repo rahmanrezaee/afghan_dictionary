@@ -1,4 +1,4 @@
-import 'package:admin/constants.dart';
+import 'package:fghan_dicitionary/constants.dart';
 import 'package:flutter/material.dart';
 
 class WordModel {

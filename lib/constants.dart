@@ -1,5 +1,5 @@
-import 'package:admin/main.dart';
-import 'package:admin/widgets/top_area.dart';
+import 'package:fghan_dicitionary/main.dart';
+import 'package:fghan_dicitionary/widgets/top_area.dart';
 import 'package:flutter/material.dart';
 
 const primaryColor = Color(0xFF2697FF);

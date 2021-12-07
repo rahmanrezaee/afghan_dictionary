@@ -18,14 +18,13 @@ class RightSideTopArea extends StatelessWidget {
             children: [
               Positioned(
                 left: 0,
-                top: -5,
+                top: 3,
                 child: Padding(
                   padding: const EdgeInsets.symmetric(
                     horizontal: 10,
                   ),
                   child: Image.asset(
-                    "assets/images/logo.png",
-                    height: 40,
+                    "assets/images/header_logo_small.png",
                     width: 40,
                   ),
                 ),

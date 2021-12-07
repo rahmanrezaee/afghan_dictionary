@@ -1,4 +1,4 @@
-import 'package:admin/widgets/home/components/modal_change_lang.dart';
+import 'package:fghan_dicitionary/widgets/home/components/modal_change_lang.dart';
 import 'package:circular_menu/circular_menu.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

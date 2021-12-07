@@ -1,5 +1,5 @@
-import 'package:admin/controllers/main_controller.dart';
-import 'package:admin/models/word_model.dart';
+import 'package:fghan_dicitionary/controllers/main_controller.dart';
+import 'package:fghan_dicitionary/models/word_model.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

@@ -1,6 +1,6 @@
-import 'package:admin/controllers/main_controller.dart';
-import 'package:admin/controllers/recent_controller.dart';
-import 'package:admin/screens/detail_screen.dart';
+import 'package:fghan_dicitionary/controllers/main_controller.dart';
+import 'package:fghan_dicitionary/controllers/recent_controller.dart';
+import 'package:fghan_dicitionary/screens/detail_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:get/get.dart';

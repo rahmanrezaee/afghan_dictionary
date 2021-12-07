@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:admin/controllers/main_controller.dart';
-import 'package:admin/responsive.dart';
+import 'package:fghan_dicitionary/controllers/main_controller.dart';
+import 'package:fghan_dicitionary/responsive.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

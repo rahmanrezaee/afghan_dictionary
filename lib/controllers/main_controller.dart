@@ -1,8 +1,8 @@
 import 'dart:collection';
 import 'dart:convert';
 
-import 'package:admin/models/word_model.dart';
-import 'package:admin/services/db_manager.dart';
+import 'package:fghan_dicitionary/models/word_model.dart';
+import 'package:fghan_dicitionary/services/db_manager.dart';
 import 'package:flutter/services.dart';
 import 'package:get/get.dart';
 

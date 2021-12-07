@@ -1,9 +1,9 @@
 import 'dart:io';
 
-import 'package:admin/controllers/favorite_controller.dart';
-import 'package:admin/controllers/main_controller.dart';
-import 'package:admin/models/word_model.dart';
-import 'package:admin/responsive.dart';
+import 'package:fghan_dicitionary/controllers/favorite_controller.dart';
+import 'package:fghan_dicitionary/controllers/main_controller.dart';
+import 'package:fghan_dicitionary/models/word_model.dart';
+import 'package:fghan_dicitionary/responsive.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -43,7 +43,6 @@ class _HeaderDetailState extends State<HeaderDetail> {
                 Get.back();
               },
               icon: Icon(Icons.arrow_back)),
-              
           Expanded(
             child: Text(
               "ResultSearch".tr + " \'${widget.title.word}\' ",

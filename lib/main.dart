@@ -1,15 +1,15 @@
 import 'dart:io';
 
-import 'package:admin/constants.dart';
-import 'package:admin/controllers/favorite_controller.dart';
-import 'package:admin/controllers/main_controller.dart';
-import 'package:admin/controllers/recent_controller.dart';
-import 'package:admin/screens/about_us_screen.dart';
-import 'package:admin/screens/favorite_screen.dart';
-import 'package:admin/screens/main_screen.dart';
-import 'package:admin/screens/recent_screen.dart';
-import 'package:admin/translations/LocaleString.dart';
-import 'package:admin/widgets/top_area.dart';
+import 'package:fghan_dicitionary/constants.dart';
+import 'package:fghan_dicitionary/controllers/favorite_controller.dart';
+import 'package:fghan_dicitionary/controllers/main_controller.dart';
+import 'package:fghan_dicitionary/controllers/recent_controller.dart';
+import 'package:fghan_dicitionary/screens/about_us_screen.dart';
+import 'package:fghan_dicitionary/screens/favorite_screen.dart';
+import 'package:fghan_dicitionary/screens/main_screen.dart';
+import 'package:fghan_dicitionary/screens/recent_screen.dart';
+import 'package:fghan_dicitionary/translations/LocaleString.dart';
+import 'package:fghan_dicitionary/widgets/top_area.dart';
 import 'package:bitsdojo_window/bitsdojo_window.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

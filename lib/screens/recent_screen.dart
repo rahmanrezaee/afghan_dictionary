@@ -1,7 +1,7 @@
-import 'package:admin/constants.dart';
-import 'package:admin/widgets/globle/components/header.dart';
-import 'package:admin/widgets/recent/components/recent_list.dart';
-import 'package:admin/widgets/top_area.dart';
+import 'package:fghan_dicitionary/constants.dart';
+import 'package:fghan_dicitionary/widgets/globle/components/header.dart';
+import 'package:fghan_dicitionary/widgets/recent/components/recent_list.dart';
+import 'package:fghan_dicitionary/widgets/top_area.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

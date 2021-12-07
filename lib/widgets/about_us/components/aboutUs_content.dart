@@ -1,4 +1,4 @@
-import 'package:admin/constants.dart';
+import 'package:fghan_dicitionary/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
@@ -18,7 +18,7 @@ class AboutUsContent extends StatelessWidget {
             children: [
               Expanded(
                   child: Text(
-                "Afghan Dicitionary",
+                "Afghan Dictionary",
                 textAlign: TextAlign.center,
                 style: Theme.of(context).textTheme.headline6,
               )),
@@ -51,7 +51,7 @@ class AboutUsContent extends StatelessWidget {
             children: [
               Expanded(
                   child: Text(
-                "Open Source project You can expanded it with you own idea, or can contribute this project for make better version",
+                "Open Source project You can expand it with you own idea, or you can contribute this project for make a better version",
                 textAlign: TextAlign.center,
                 style: Theme.of(context).textTheme.subtitle1,
               )),

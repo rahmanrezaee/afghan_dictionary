@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:admin/controllers/main_controller.dart';
-import 'package:admin/responsive.dart';
+import 'package:fghan_dicitionary/controllers/main_controller.dart';
+import 'package:fghan_dicitionary/responsive.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -13,9 +13,9 @@ class SearchField extends GetView<MainController> {
   @override
   Widget build(BuildContext context) {
     return TextField(
-      textDirection: controllerText.text.contains(RegExp(r'[a-zA-Z]'))
-          ? TextDirection.ltr
-          : TextDirection.rtl,
+      // textDirection: controllerText.text.contains(RegExp(r'[a-zA-Z]'))
+      //     ? TextDirection.ltr
+      //     : TextDirection.rtl,
       controller: controllerText,
       onChanged: (value) {
         controller.keyword.value = value;
