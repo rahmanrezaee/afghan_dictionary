@@ -54,7 +54,7 @@ class MainController extends GetxController {
     //Clear Pervise Search And Replace New Search
     dariPashto.clear();
     dariPashto.addAll(tempList);
-
+    await dbService.closeDb();
     isLoading(false);
   }
 
@@ -164,7 +164,7 @@ class MainController extends GetxController {
     print("result detail $result");
     this.dariPashtoDetail.clear();
     this.dariPashtoDetail.addAll(result);
-
+    await dbService.closeDb();
     isLoadingDetail(false);
   }
 

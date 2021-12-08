@@ -115,4 +115,8 @@ class ConnectionSQLiteService {
 
     return file.writeAsBytes(bytes);
   }
+
+  Future closeDb() async {
+    if (db != null) db!.close();
+  }
 }
