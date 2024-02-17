@@ -1,6 +1,8 @@
+![image](https://github.com/rahmanrezaee/afghan_dictionary/assets/37028113/643ad2f6-2978-47c0-a1b8-e9bdb0711085)
+
 # afghan_dictionary
 
-Afghan Dicitionary is a desktop application base on FLutter
+Afghan Dictionary is a desktop application based on FLutter
 
 **Packages we are using:**
 
@@ -14,6 +16,9 @@ Afghan Dicitionary is a desktop application base on FLutter
 - url_launcher: 
 
 
+## Link For Download 📂
+[![Download zip](https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white "Download EXE")](https://raw.githubusercontent.com/rahmanrezaee/afghan_dic/gh-pages/Afghan%20Dictionary.exe)
+
 ## Contributors ✨
 
-No Yet Im open see you :)
+No I'm open see you :)
