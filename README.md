@@ -1,6 +1,6 @@
 ![image](https://github.com/rahmanrezaee/afghan_dictionary/assets/37028113/643ad2f6-2978-47c0-a1b8-e9bdb0711085)
 
-# afghan_dictionary
+# Afghan Dictionary(Dari, Pashto, English)
 
 Afghan Dictionary is a desktop application based on FLutter
 
